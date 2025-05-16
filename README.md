@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jim</h1>
-<h3 align="center">A passionate Java/Kotlin developer from India</h3>
+<h1 align="center">Hi 👋, I'm Manav...Manav Dubey</h1>
+<h3 align="center">A passionate web developer and a coder from India</h3>
 
-- 🔭 I’m currently working on **Smart Parking System**
-- 🌱 I’m currently learning **Spring Boot, React**
+- 🔭 I’m currently working on different Full-stack web projects.
+- 🌱 I’m currently learning and exploring **AI & ML**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, DSA, Hackathons**
-- 📫 How to reach me: jim@example.com
-- ⚡ Fun fact: I love debugging more than coding!
+- 💬 Ask me about **React, JavaScript, Java, DSA, Hackathons**
+- 📫 How to reach me: manav.d1225@gmail.com
+- ⚡ Fun fact: I love debugging more than coding! // Not really funny
 
 ---
 
