@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manav...Manav Dubey</h1>
 <h3 align="center">A passionate web developer and a coder from India</h3>
 
-<img  src="https://pngmaker.io/tag/Programmer" alt="This is a vector art">
+<p align="center">
+  <img src="https://file.aiquickdraw.com/imgcompressed/img/compressed_8b7d18f6bddac16dbbf7682dfc1010c8.webp" alt="Programmer" width="300"/>
+</p>
 - 🔭 I’m currently working on different Full-stack web projects.
 - 🌱 I’m currently learning and exploring **AI & ML**
 - 👯 I’m looking to collaborate on **Open Source Projects**
